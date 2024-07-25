@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Front-end**
 
-- 🌱 I’m currently learning **JavaScript,C++**
+- 🌱 I’m currently learning **JavaScript, SQL, Python**
 
 - 💬 Ask me about **HTML,CSS,C**
 
